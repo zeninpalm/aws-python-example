@@ -1,3 +1,5 @@
+org: zeninpalm
+app: my-aws-python-example
 service: my-aws-python-example
 
 frameworkVersion: '3'
